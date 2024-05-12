@@ -1,5 +1,5 @@
 # Watch Brand Website Scraper
-
+This project was done in a data engineering bootcamp at SDA &amp; WeCloudData
 ## About the Project
 
 The goal of this project is to scrape a watch brand's website to gather a set of data points about every watch. The project is divided into three major tasks:
